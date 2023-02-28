@@ -1,0 +1,4 @@
+include ':appone'
+include ':apptwo'
+include ':appthree'
+
